@@ -4,7 +4,8 @@
 
 ## Reference course
 
-https://www.youtube.com/watch?v=Mgr5_r70OJQ
+- https://www.youtube.com/watch?v=Mgr5_r70OJQ
+- https://jspang.com/article/87
 
 ## Awesome nestjs
 
